@@ -32,4 +32,8 @@ Gambar di atas menunjukan perbandingan antara storage usage (Windows)kiri dan st
 * Windows menggunakan C:, D:, E: untuk partisi.
 *Linux tidak pakai huruf drive, tapi menggunakan struktur direktori seperti / (root), /home, /var.
 
-![alt text](
+## 3. manajemen file
+# -File Explorer dan File Manager
+![alt text](https://github.com/fixxs/Perbedaan-Windows-Dan-Kali-Linux/blob/main/README.md?plain=1?raw=true)
+
+Gambar di atas menunjukan Gambar di atas menunjukan perbandingan antara file explorer (Windows)kiri dan file manager(Linux)kanan.
