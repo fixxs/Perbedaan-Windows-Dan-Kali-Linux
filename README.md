@@ -1,11 +1,17 @@
 # Perbandingan-Windows-Dan-Kali-Linux
 ## Windows 
-Microsoft Windows atau sering kita sebut dengan nama Windows merupakan sistem operasi yang dikembangkan oleh Microsoft, Sistem operasi ini dibangun dengan menggunakan antarmuka pengguna grafis (GUI) untuk menyederhanakan perintah.Windows adalah sistem operasi yang dikembangkan oleh Microsoft dan merupakan salah satu OS paling populer di dunia. Sistem ini dikenal dengan antarmuka grafisnya yang user-friendly, kompatibilitas yang luas, serta dukungan terhadap berbagai aplikasi.
+Microsoft Windows atau sering kita sebut dengan nama Windows merupakan sistem operasi yang dikembangkan oleh Microsoft, Sistem operasi ini dibangun dengan 
+menggunakan antarmuka pengguna grafis (GUI) untuk menyederhanakan perintah.Windows adalah sistem operasi yang dikembangkan oleh Microsoft dan merupakan salah satu 
+OS paling populer di dunia. Sistem ini dikenal dengan antarmuka grafisnya yang user-friendly, kompatibilitas yang luas, serta dukungan terhadap berbagai aplikasi.
 
-Namun, meskipun memiliki banyak keunggulan, Windows juga memiliki kelemahan. Salah satu kelemahan utamanya adalah keamanan. Karena Windows adalah sistem operasi yang paling banyak digunakan, maka sistem ini menjadi target utama bagi virus, malware, dan serangan siber.namun sebagai salah satu solusinya Microsoft menawarkan beberapa fitur pada sofware buatannya,salah satunya adalah Windows Update. ada beberapa fitur yang ditawarkan oleh Windows Update sebagai berikut.papatch keamanan, perbaikan bug, fitur baru, dan peningkatan kinerja.
+Namun, meskipun memiliki banyak keunggulan, Windows juga memiliki kelemahan. Salah satu kelemahan utamanya adalah keamanan. Karena Windows adalah sistem operasi 
+yang paling banyak digunakan, maka sistem ini menjadi target utama bagi virus, malware, dan serangan siber.namun sebagai salah satu solusinya Microsoft menawarkan 
+beberapa fitur pada sofware buatannya,salah satunya adalah Windows Update. ada beberapa fitur yang ditawarkan oleh Windows Update sebagai berikut.papatch keamanan, 
+perbaikan bug, fitur baru, dan peningkatan kinerja.
 
 ## Linux
-Linux adalah sistem operasi berbasis open-source yang pertama kali dikembangkan oleh Linus Torvalds pada tahun 1991. Linux bersifat gratis, bebas dimodifikasi, dan lebih aman dibandingkan sistem operasi lainnya.
+Linux adalah sistem operasi berbasis open-source yang pertama kali dikembangkan oleh Linus Torvalds pada tahun 1991. Linux bersifat gratis, bebas dimodifikasi, dan 
+lebih aman dibandingkan sistem operasi lainnya.
 Dengan kata lain linux memberikan akses kepada setiap pengguna untuk memodifikasi atau merubah sistem yang berjalan di dalam os tersebut.
 
 Linux bukan hanya satu sistem operasi, melainkan sebuah keluarga dari berbagai distribusi (distro) seperti Ubuntu, Debian, Fedora, Arch Linux, dan Kali Linux.
@@ -15,12 +21,15 @@ Linux bukan hanya satu sistem operasi, melainkan sebuah keluarga dari berbagai d
 ## < Task Manager dan System Monitor
 ![alt text](https://github.com/fixxs/Perbedaan-Windows-Dan-Kali-Linux/blob/main/Screenshot%202025-02-10%20002902.png?raw=true)
 
-Gambar di atas menunjukan perbandingan antara Task Manager(Windows)kiri dan System Monitor(Linux)kanan. kedua ini digunakan untuk memantau kinerja sistem, termasuk CPU.Memori,dan Jaringan.
+Gambar di atas menunjukan perbandingan antara Task Manager(Windows)kiri dan System Monitor(Linux)kanan. kedua ini digunakan untuk memantau kinerja sistem, termasuk 
+CPU.Memori,dan Jaringan.
 Task Manager di Windows dan System Monitor di Linux adalah alat yang digunakan untuk memantau dan mengelola proses serta sumber daya sistem.
 
-* Task Manager (Windows) lebih sederhana dan mudah digunakan, berfokus pada mengelola aplikasi, menutup program yang tidak responsif, serta memantau penggunaan CPU, RAM, dan jaringan.
+* Task Manager (Windows) lebih sederhana dan mudah digunakan, berfokus pada mengelola aplikasi, menutup program yang tidak responsif, serta memantau penggunaan
+* CPU, RAM, dan jaringan.
 
-* System Monitor (Linux) lebih fleksibel dan memberikan informasi lebih rinci, termasuk kemampuan untuk melihat dan mengelola proses dengan lebih banyak opsi, serta bisa digunakan melalui antarmuka grafis atau terminal dengan perintah seperti top dan htop.
+* System Monitor (Linux) lebih fleksibel dan memberikan informasi lebih rinci, termasuk kemampuan untuk melihat dan mengelola proses dengan lebih banyak opsi, 
+ serta bisa digunakan melalui antarmuka grafis atau terminal dengan perintah seperti top dan htop.
 
 ## 2. Storage Usage
 ![alt text](https://github.com/fixxs/Perbedaan-Windows-Dan-Kali-Linux/blob/main/Screenshot%202025-02-10%20003334.png?raw=true)
@@ -34,6 +43,7 @@ Gambar di atas menunjukan perbandingan antara storage usage (Windows)kiri dan st
 
 ## 3. manajemen file
 # -File Explorer dan File Manager
+![alt text](https://github.com/fixxs/Perbedaan-Windows-Dan-Kali-Linux/blob/main/Screenshot%202025-02-10%20011111.jpg?raw=true)
 
 
 Gambar di atas menunjukan Gambar di atas menunjukan perbandingan antara file explorer (Windows)kiri dan file manager(Linux)kanan.
@@ -57,3 +67,14 @@ Gambar di atas menunjukan Gambar di atas menunjukan perbandingan antara file exp
 ## perbedaan menu start windows dan linux
 
 ![alt text](https://github.com/fixxs/Perbedaan-Windows-Dan-Kali-Linux/blob/main/Screenshot%202025-02-10%20003523.jpg?raw=true)
+
+Gambar di atas menunjukan Gambar di atas menunjukan perbandingan antara tampilan menu start (Windows)kiri dan file manager(Linux)kanan
+
+Di Windows, kita langsung melihat Start Menu, yang berisi daftar aplikasi, file terbaru, dan pencarian. Taskbar di bagian bawah juga membantu kita mengakses 
+aplikasi yang sering digunakan dengan cepat,Windows 11 menyederhanakannya dengan daftar aplikasi yang lebih rapi.sedangkan di Windows versi lain belum tentu ada.
+
+Di Linux, tampilannya bergantung pada Desktop Environment (DE) yang digunakan. Jika menggunakan GNOME, kita tidak punya Start Menu tradisional, 
+tetapi ada Activities Overview, yang menampilkan semua aplikasi dalam bentuk grid dan mendukung workspace virtual. Sementara itu, KDE Plasma memiliki menu aplikasi 
+yang mirip Start Menu Windows, tetapi lebih bisa dikustomisasi. Cinnamon dan XFCE lebih mirip Windows 7, dengan menu klasik dan taskbar di bawah.
+
+
