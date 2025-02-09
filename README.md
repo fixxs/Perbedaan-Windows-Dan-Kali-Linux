@@ -34,6 +34,26 @@ Gambar di atas menunjukan perbandingan antara storage usage (Windows)kiri dan st
 
 ## 3. manajemen file
 # -File Explorer dan File Manager
-![alt text](https://github.com/fixxs/Perbedaan-Windows-Dan-Kali-Linux/blob/main/README.md?plain=1?raw=true)
+![alt text](https://github.com/fixxs/Perbedaan-Windows-Dan-Kali-Linux/blob/main/Screenshot%202025-02-10%20003523.jpg?raw=true)
 
 Gambar di atas menunjukan Gambar di atas menunjukan perbandingan antara file explorer (Windows)kiri dan file manager(Linux)kanan.
+
+*File Explorer di Windows dan File Manager di Linux memiliki fungsi yang sama, yaitu mengelola file dan folder dalam sistem operasi. Namun, keduanya memiliki 
+ perbedaan yang cukup signifikan dalam fitur, tampilan, dan fleksibilitas.
+
+*Dari segi antarmuka, File Explorer di Windows dirancang dengan tampilan yang sederhana dan mudah digunakan, cocok untuk pengguna umum.  Di sisi lain, File Manager 
+ di Linux bervariasi tergantung pada lingkungan desktop yang digunakan. Misalnya, **Nautilus di GNOME, Dolphin di KDE, dan Thunar di XFCE** menawarkan tampilan y 
+ yang berbeda-beda, namun tetap berorientasi pada kemudahan penggunaan.
+
+*Dalam hal fitur, File Explorer memiliki fungsi dasar seperti **copy, paste, rename, delete, dan drag & drop**. Namun, ia tidak mendukung fitur seperti tab secara 
+ bawaan, sehingga pengguna harus membuka banyak jendela jika ingin bekerja dengan beberapa direktori sekaligus. File Manager di Linux, terutama yang lebih modern 
+ seperti **Dolphin atau Nemo**, sering kali mendukung tab, bahkan ada yang memiliki **panel ganda** untuk mempermudah pengelolaan file.
+
+*Keunggulan lain dari File Manager di Linux adalah integrasi yang lebih baik dengan terminal. Banyak file manager menyediakan opsi **"Open Terminal Here"**, 
+ sehingga pengguna dapat langsung menjalankan perintah dalam direktori yang sedang dibuka. Sebaliknya, File Explorer di Windows memerlukan akses terpisah ke 
+ **Command Prompt atau PowerShell**.
+
+## 4.design atau tampilan awal
+## perbedaan menu start windows dan linux
+
+![alt text(?raw=true
