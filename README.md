@@ -14,3 +14,22 @@ Linux bukan hanya satu sistem operasi, melainkan sebuah keluarga dari berbagai d
 ## 1. Performa dan penggunakan sumber daya
 ## < Task Manager dan System Monitor
 ![alt text](https://github.com/fixxs/Perbedaan-Windows-Dan-Kali-Linux/blob/main/Screenshot%202025-02-10%20002902.png?raw=true)
+
+Gambar di atas menunjukan perbandingan antara Task Manager(Windows)kiri dan System Monitor(Linux)kanan. kedua ini digunakan untuk memantau kinerja sistem, termasuk CPU.Memori,dan Jaringan.
+Task Manager di Windows dan System Monitor di Linux adalah alat yang digunakan untuk memantau dan mengelola proses serta sumber daya sistem.
+
+* Task Manager (Windows) lebih sederhana dan mudah digunakan, berfokus pada mengelola aplikasi, menutup program yang tidak responsif, serta memantau penggunaan CPU, RAM, dan jaringan.
+
+* System Monitor (Linux) lebih fleksibel dan memberikan informasi lebih rinci, termasuk kemampuan untuk melihat dan mengelola proses dengan lebih banyak opsi, serta bisa digunakan melalui antarmuka grafis atau terminal dengan perintah seperti top dan htop.
+
+## 2. Storage Usage
+![alt text](https://github.com/fixxs/Perbedaan-Windows-Dan-Kali-Linux/blob/main/Screenshot%202025-02-10%20003334.png?raw=true)
+
+Gambar di atas menunjukan perbandingan antara storage usage (Windows)kiri dan storage usage(Linux)kanan. 
+
+* Windows menggunakan Page File.
+* Linux menggunakan Swap Partition atau Swap File, lebih fleksibel dalam konfigurasi.
+* Windows menggunakan C:, D:, E: untuk partisi.
+*Linux tidak pakai huruf drive, tapi menggunakan struktur direktori seperti / (root), /home, /var.
+
+![alt text](
