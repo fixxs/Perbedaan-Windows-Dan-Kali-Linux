@@ -34,7 +34,7 @@ Gambar di atas menunjukan perbandingan antara storage usage (Windows)kiri dan st
 
 ## 3. manajemen file
 # -File Explorer dan File Manager
-![alt text](https://github.com/fixxs/Perbedaan-Windows-Dan-Kali-Linux/blob/main/Screenshot%202025-02-10%20003523.jpg?raw=true)
+
 
 Gambar di atas menunjukan Gambar di atas menunjukan perbandingan antara file explorer (Windows)kiri dan file manager(Linux)kanan.
 
@@ -56,4 +56,4 @@ Gambar di atas menunjukan Gambar di atas menunjukan perbandingan antara file exp
 ## 4.design atau tampilan awal
 ## perbedaan menu start windows dan linux
 
-![alt text(?raw=true
+![alt text](https://github.com/fixxs/Perbedaan-Windows-Dan-Kali-Linux/blob/main/Screenshot%202025-02-10%20003523.jpg?raw=true)
