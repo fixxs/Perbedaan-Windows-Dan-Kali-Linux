@@ -13,3 +13,4 @@ Linux bukan hanya satu sistem operasi, melainkan sebuah keluarga dari berbagai d
 # Perbandingan
 ## 1. Performa dan penggunakan sumber daya
 ## < Task Manager dan System Monitor
+![alt text](?raw=true)
