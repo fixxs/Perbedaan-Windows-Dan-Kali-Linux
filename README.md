@@ -13,4 +13,4 @@ Linux bukan hanya satu sistem operasi, melainkan sebuah keluarga dari berbagai d
 # Perbandingan
 ## 1. Performa dan penggunakan sumber daya
 ## < Task Manager dan System Monitor
-![alt text](?raw=true)
+![alt text](https://github.com/fixxs/Perbedaan-Windows-Dan-Kali-Linux/blob/main/Screenshot%202025-02-10%20002902.png?raw=true)
